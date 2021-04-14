@@ -1,4 +1,11 @@
 1. selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH.
 
+<<<<<<< HEAD
 2.remote: Permission to PraveenDataScience/Python-Selenium-WebDriver.git denied to PraveenAutomation.
 fatal: unable to access 'https://github.com/PraveenDataScience/Python-Selenium-WebDriver.git/': The requested URL returned error: 403
+=======
+2.selenium.common.exceptions.SessionNotCreatedException: Message: Expected browser binary location,
+  but unable to find binary in default location, no 'moz:firefoxOptions.binary'
+
+3.
+>>>>>>> 8a4a4acc78fe6c9eb065a30bc55ccd3eb04729e9
