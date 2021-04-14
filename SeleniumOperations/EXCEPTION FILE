@@ -1,3 +1,6 @@
 1. selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH.
 
-2.
+2.selenium.common.exceptions.SessionNotCreatedException: Message: Expected browser binary location,
+  but unable to find binary in default location, no 'moz:firefoxOptions.binary'
+
+3.
