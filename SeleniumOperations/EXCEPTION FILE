@@ -1,3 +1,4 @@
 1. selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH.
 
-2.
+2.remote: Permission to PraveenDataScience/Python-Selenium-WebDriver.git denied to PraveenAutomation.
+fatal: unable to access 'https://github.com/PraveenDataScience/Python-Selenium-WebDriver.git/': The requested URL returned error: 403
