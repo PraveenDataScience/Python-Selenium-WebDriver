@@ -3,5 +3,6 @@ pip install pytest-html
 
 pytest -v -s test_google_test.py
 
+https://www.geeksforgeeks.org/special-keys-in-selenium-python/?ref=rp
 
 

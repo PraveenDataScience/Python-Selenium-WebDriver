@@ -49,4 +49,6 @@ max_val=[max(i) for i in vals ]
 print(max_val)
 
 print(sum([i for i in range(1, int(input("Enter n: "))+1)]))
+''''
 
+'''
