@@ -9,3 +9,6 @@ driver.implicitly_wait(10)
 driver.get("http://demo.guru99.com/test/newtours/")
 
 path = "C://Users//pande//PycharmProjects//PytestFramework//PythonDataDrivenTesting//Login1.xlsx"
+
+rows = XLUtils.getRowCount(path, 'sheet1')
+
