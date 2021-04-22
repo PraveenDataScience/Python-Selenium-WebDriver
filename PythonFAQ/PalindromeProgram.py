@@ -1,11 +1,8 @@
-s = "nitin"
-
-
 def palindrome(s):
-    if s[::-1] == s:
-        print("It is Palindrome")
+    if s[::-1]==s:
+        print("Yes, it is palindrome")
     else:
-        print("It is not Palindrome")
+        print("It is not")
 
-
-palindrome("mamau")
+palindrome("nitin")
+palindrome("VDS TECH LABS")
