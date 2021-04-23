@@ -9,3 +9,5 @@ fatal: unable to access 'https://github.com/PraveenDataScience/Python-Selenium-W
 
 3.
 >>>>>>> 8a4a4acc78fe6c9eb065a30bc55ccd3eb04729e9
+4. selenium.common.exceptions.StaleElementReferenceException: Message:
+    stale element reference: element is not attached to the page document
