@@ -14,7 +14,7 @@ def subStringInWholeString():
 def subStringByRangeInString():
     string = input("Enter String: ")
     substring = input("Enter Sub String: ")
-    count = string.count(substring,5,15)
+    count = string.count(substring)
     # print count
     print("The count is:", count)
 
