@@ -23,4 +23,5 @@ for ele in optionList:
         break
 
 time.sleep(5)
-driver.quit()
+print("Currrent Page Title is: ",driver.title)
+#driver.quit()
