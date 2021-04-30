@@ -1,4 +1,4 @@
-# This below msg will when branch is already up to date:
+# This below msg will come while doing pull when branch is already up to date:
 From https://github.com/PraveenDataScience/Python-Selenium-WebDriver
  * branch            feature_pythonSelenium -> FETCH_HEAD
 Already up to date.
