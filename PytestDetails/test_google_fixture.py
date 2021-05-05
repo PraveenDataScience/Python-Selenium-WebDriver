@@ -19,7 +19,7 @@ def init_driver():
     driver.get("https://www.google.com/")
 
     yield
-    print("===========SETUP===============")
+    print("===========TEAR DOWN===============")
     driver.quit()
 
 '''
