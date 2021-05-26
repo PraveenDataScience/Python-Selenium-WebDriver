@@ -15,12 +15,9 @@ print("\n========================")
 
 # 2nd Way:
 def fun(x):
-    if x==0:
-        return 0
-    elif x==1:
-        return 1
-    else:
-        return fun(x-1)+fun(x-2)
+    if x==0:return 0
+    elif x==1:return 1
+    else:return fun(x-1)+fun(x-2)
 
 for i in range(0,8):
     print(fun(i),end=" ")
