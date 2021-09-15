@@ -1,0 +1,10 @@
+1629708641251	geckodriver	INFO	Listening on 127.0.0.1:60603
+1629708644693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\PRIYAP~1\\AppData\\Local\\Temp\\rust_mozprofilehXIpIz"
+*** You are running in headless mode.
+1629708651680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\priya pandey\\AppData\\Local\\Temp\\rust_mozprofilehXIpIz\\search.json.mozlz4", (void 0)))
+1629708667709	Marionette	INFO	Listening on port 60611
+1629708668455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a59a5efa189d6505d333.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

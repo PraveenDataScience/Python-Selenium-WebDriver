@@ -11,6 +11,8 @@ for i in d:
 print(bl)
 #Output: ["äpple","basket","bottle","spray","table"]
 
+z=[x for x in d if d not in x]
+print(z)
 #Prime
 
 print("===========Prime============")
