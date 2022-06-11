@@ -5,3 +5,9 @@ def length(str):
 
 str="VDS TECH LABS"
 print("Length of last word: ",length(str))
+
+
+
+y=lambda x : x%2==0
+
+print(y(6))

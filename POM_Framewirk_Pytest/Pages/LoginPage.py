@@ -2,8 +2,9 @@ from POM_Framewirk_Pytest.Config.config import TestData
 from POM_Framewirk_Pytest.Pages.BasePage import BasePage
 from selenium.webdriver.common.by import By
 
-'''By_Locators : OR'''
+
 class LoginPage(BasePage):
+    '''By_Locators : OR'''
     USER_NAME =(By.NAME,'userName')
     PASSWORD =(By.NAME,'password')
     SUBMIT_BTN=(By.XPATH,"input[name='submit']")
