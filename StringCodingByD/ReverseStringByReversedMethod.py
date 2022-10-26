@@ -1,0 +1,5 @@
+s=input("Enter string to be reversed : ")
+r=reversed(s)
+print(type(r))
+output=''.join(r)
+print("Reversed String is : ",output)
