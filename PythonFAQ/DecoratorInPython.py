@@ -14,4 +14,4 @@ def alwaysPositive(func):
 
 c = alwaysPositive(sub)
 
-print(c(10, 5))
+print(c(10, 15))
