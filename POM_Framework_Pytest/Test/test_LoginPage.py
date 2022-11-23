@@ -1,8 +1,8 @@
 import pytest
 
-from POM_Framewirk_Pytest.Config.config import TestData
-from POM_Framewirk_Pytest.Pages.LoginPage import LoginPage
-from POM_Framewirk_Pytest.Test.test_base import BaseTest
+from POM_Framework_Pytest.Config.config import TestData
+from POM_Framework_Pytest.Pages.LoginPage import LoginPage
+from POM_Framework_Pytest.Test.test_base import BaseTest
 
 
 class test_login(BaseTest):

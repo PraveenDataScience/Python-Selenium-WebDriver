@@ -1,5 +1,5 @@
-from POM_Framewirk_Pytest.Config.config import TestData
-from POM_Framewirk_Pytest.Pages.BasePage import BasePage
+from POM_Framework_Pytest.Config.config import TestData
+from POM_Framework_Pytest.Pages.BasePage import BasePage
 from selenium.webdriver.common.by import By
 
 

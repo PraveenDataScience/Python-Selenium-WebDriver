@@ -1,7 +1,7 @@
 import pytest
 from selenium.webdriver.chrome import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
-from POM_Framewirk_Pytest.Config.config import TestData
+from POM_Framework_Pytest.Config.config import TestData
 
 
 @pytest.fixture(params=['chrome','firefox'],scope='class')
