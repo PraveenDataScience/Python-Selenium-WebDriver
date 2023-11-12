@@ -18,3 +18,16 @@ print(new)
 
 new1=[x for x in l2 if x!="apple"]
 print(new1)
+
+# Iterable:
+
+l3 = [x for x in range(10) if x<6]
+print(l3)
+
+# Expression:
+
+l4=[x.upper() for x in l2 ]
+print(l4)
+
+l5 = [ x if x!="banana" else "ratna" for x in l2]
+print(l5)
